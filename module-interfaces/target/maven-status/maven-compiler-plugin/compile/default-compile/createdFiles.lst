@@ -1,0 +1,15 @@
+br\com\accounts\AccountOuterClass$1.class
+br\com\accounts\Account$Builder.class
+br\com\accounts\AccountServiceGrpc$AccountServiceMethodDescriptorSupplier.class
+br\com\accounts\AccountOrBuilder.class
+br\com\accounts\AccountOuterClass.class
+br\com\accounts\AccountServiceGrpc.class
+br\com\accounts\AccountServiceGrpc$AccountServiceBaseDescriptorSupplier.class
+br\com\accounts\AccountServiceGrpc$AccountServiceBlockingStub.class
+br\com\accounts\AccountServiceGrpc$AccountServiceFutureStub.class
+br\com\accounts\AccountServiceGrpc$MethodHandlers.class
+br\com\accounts\Account$1.class
+br\com\accounts\AccountServiceGrpc$AccountServiceFileDescriptorSupplier.class
+br\com\accounts\AccountServiceGrpc$AccountServiceStub.class
+br\com\accounts\AccountServiceGrpc$AccountServiceImplBase.class
+br\com\accounts\Account.class

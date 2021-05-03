@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "br.com.accounts";
+//option java_outer_classname = "";
+
+package account;
+
+import "google/protobuf/wrappers.proto";
+
+service AccountService {
+  rpc GetAccount(google.protobuf.Int32Value) returns (Account) {}
+}
+
+message Account {
+  int32 id = 1;
+  string name = 2;
+  int32 agencyNumber = 3;
+  int32 accountNumber = 4;
+  float balance = 5;
+}
+
